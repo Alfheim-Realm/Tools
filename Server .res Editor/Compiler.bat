@@ -1,0 +1,1 @@
+genrb -e UTF-8 -s "C:\Project - Server\Tools\Server Resource" en_US.txt
