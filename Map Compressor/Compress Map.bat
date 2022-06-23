@@ -1,0 +1,1 @@
+start pkodev.tool.mapcompressor.exe <OriginalMapFile(.map)> <CompressedMapFile(.map)>
