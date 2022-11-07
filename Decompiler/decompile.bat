@@ -1,0 +1,2 @@
+luajit decompiler.lua
+pause
